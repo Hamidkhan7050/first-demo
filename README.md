@@ -1,4 +1,4 @@
 # first-demo
 I am learning git real use.
 <br>
-Author- Hamid raza khan
+Author- Hamid raza khan(software developer)
